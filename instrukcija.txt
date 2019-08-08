@@ -1,0 +1,2 @@
+1. Terminale sukompiliuoti java failiuka (javac valiuta java).
+2. Terminale paleisti sukompiliuota klase (java valiuta).
